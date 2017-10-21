@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: tomato firmwares 中文版
+title: tomato firmwares 中文版 CTF
 locale: en_US
-description: src-rt builds
+description: src-rt builds with CTF
 logo: kon.png
 search: true
-url: https://oglopss.github.io/tomato-ci-jekyll/
+url: https://oglopss.github.io/tomato-ci-ctf-jekyll/
 
 # Jekyll configuration
 
