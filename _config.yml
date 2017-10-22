@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: tomato firmwares 中文版 CTF
+title: tomato firmwares mipsel with CTF
 locale: en_US
 description: src-rt builds with CTF
 logo: kon.png
