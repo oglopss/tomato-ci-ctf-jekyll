@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: tomato firmwares mipsel with CTF
+title: tomato firmwares mipsel
 locale: en_US
-description: src-rt builds with CTF
+description: src-rt custom builds
 logo: kon.png
 search: true
 url: https://oglopss.github.io/tomato-ci-ctf-jekyll/
