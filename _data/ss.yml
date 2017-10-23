@@ -2,3 +2,4 @@ build: 4
 files:
   - 0002 r2q3v tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-q3-VPN.trx
   - 0001 r2q3m tomato-K26-1.28.RT-N5x-CN-MIPSR2-140-q3-Max.trx
+  - 0003 hg32032k tomato-K26USB-1.28.RT-N5x-CN-MIPSR2-140-hg320-Max.trx
